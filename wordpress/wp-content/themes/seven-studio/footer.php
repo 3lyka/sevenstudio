@@ -5,7 +5,7 @@
                 <div class="row">
                     <div class="col-lg-3 col-sm-6 sm-padding">
                         <div class="widget-content">
-                            <a href="#"><img src="<?php bloginfo('template_url'); ?>/img/logo-light.png" alt="brand"></a>
+                            <a href="#"><img src="<?php bloginfo('template_url'); ?>/img/logo.svg" alt="brand"></a>
                             <p>Building your own home is about desire, fantasy. But it’s achievable anyone can do it.</p>
                         </div>
                     </div>
